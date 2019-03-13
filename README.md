@@ -1,1 +1,1 @@
-Web UI tests example using [SelenideJS](selenidejs.org) on top of Selenium WebDriver, with Jasmine as test runner.
+Web UI tests example using [SelenideJS](selenidejs.org) on top of [Protractor](http://www.protractortest.org/).
