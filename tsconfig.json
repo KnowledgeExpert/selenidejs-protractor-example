@@ -5,10 +5,5 @@
     "outDir": "build",
     "types": ["jasmine", "node"]
   },
-  "exclude": ["node_modules"],
-  "author": {
-    "name": "Knowledge Expert SA",
-    "email": "ke@k-expert.com"
-  },
-  "license": "MIT"
+  "exclude": ["node_modules"]
 }
