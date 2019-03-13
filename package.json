@@ -9,5 +9,10 @@
   "scripts": {
     "pretest": "rm -rf build && tsc",
     "test": "protractor build/protractor.conf.js"
-  }
+  },
+  "author": {
+    "name": "Knowledge Expert SA",
+    "email": "ke@k-expert.com"
+  },
+  "license": "MIT"
 }
